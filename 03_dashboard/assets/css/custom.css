@@ -1,0 +1,16 @@
+/* =====================================================================
+   File ini sengaja DIKOSONGKAN.
+
+   Sejak versi terbaru, seluruh style dashboard di-embed di dalam
+   <style> ... </style> pada file `index.php` (tidak lagi dimuat sebagai
+   CSS eksternal). File ini disisakan hanya untuk menjaga struktur folder
+   `assets/css/` tetap sama; Anda boleh menghapusnya tanpa konsekuensi.
+
+   Sistem tata letak juga sudah diubah dari CSS Grid -> CSS Flexbox
+   pada kelas-kelas berikut (semua sekarang tinggal di index.php):
+     .kpi-row    (sebelumnya display:grid auto-fit -> flex + flex-wrap)
+     .grid-12    (sebelumnya 12 kolom grid        -> flex + flex-basis %)
+     .col-12 / .col-7 / .col-6 / .col-5
+                 (sebelumnya grid-column:span N   -> flex:1 1 <pct>)
+     .cluster-grid (sebelumnya 1.2fr 0.9fr        -> flex + flex-grow)
+   ===================================================================== */

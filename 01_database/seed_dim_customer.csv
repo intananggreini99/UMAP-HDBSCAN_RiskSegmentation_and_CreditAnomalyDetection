@@ -1,0 +1,101 @@
+sk_customer,customer_id,full_name,occupation,monthly_income,risk_segment,credit_grade
+1,1,Customer 001,Karyawan Swasta,6400000.0,5,BB
+2,2,Customer 002,PNS,33600000.0,2,AA
+3,3,Customer 003,Wiraswasta,19100000.0,1,AAA
+4,4,Customer 004,Profesional,27900000.0,5,BB
+5,5,Customer 005,BUMN,45800000.0,2,AA
+6,6,Customer 006,Petani,16200000.0,3,A
+7,7,Customer 007,Pedagang,23500000.0,5,BB
+8,8,Customer 008,Karyawan Swasta,39000000.0,4,BBB
+9,9,Customer 009,PNS,15300000.0,4,BBB
+10,10,Customer 010,Wiraswasta,8500000.0,2,AA
+11,11,Customer 011,Profesional,18000000.0,4,BBB
+12,12,Customer 012,BUMN,12300000.0,4,BBB
+13,13,Customer 013,Petani,46800000.0,3,A
+14,14,Customer 014,Pedagang,41400000.0,3,A
+15,15,Customer 015,Karyawan Swasta,33500000.0,1,AAA
+16,16,Customer 016,PNS,44200000.0,2,AA
+17,17,Customer 017,Wiraswasta,41200000.0,4,BBB
+18,18,Customer 018,Profesional,13400000.0,1,AAA
+19,19,Customer 019,BUMN,45200000.0,2,AA
+20,20,Customer 020,Petani,29300000.0,1,AAA
+21,21,Customer 021,Pedagang,41300000.0,1,AAA
+22,22,Customer 022,Karyawan Swasta,45300000.0,5,BB
+23,23,Customer 023,PNS,19300000.0,4,BBB
+24,24,Customer 024,Wiraswasta,10000000.0,4,BBB
+25,25,Customer 025,Profesional,15300000.0,5,BB
+26,26,Customer 026,BUMN,24200000.0,1,AAA
+27,27,Customer 027,Petani,41800000.0,2,AA
+28,28,Customer 028,Pedagang,43700000.0,2,AA
+29,29,Customer 029,Karyawan Swasta,5300000.0,4,BBB
+30,30,Customer 030,PNS,28000000.0,5,BB
+31,31,Customer 031,Wiraswasta,23800000.0,4,BBB
+32,32,Customer 032,Profesional,15000000.0,3,A
+33,33,Customer 033,BUMN,10400000.0,2,AA
+34,34,Customer 034,Petani,20200000.0,4,BBB
+35,35,Customer 035,Pedagang,47400000.0,3,A
+36,36,Customer 036,Karyawan Swasta,19500000.0,3,A
+37,37,Customer 037,PNS,28300000.0,4,BBB
+38,38,Customer 038,Wiraswasta,36600000.0,3,A
+39,39,Customer 039,Profesional,21400000.0,5,BB
+40,40,Customer 040,BUMN,48700000.0,1,AAA
+41,41,Customer 041,Petani,48300000.0,3,A
+42,42,Customer 042,Pedagang,16300000.0,5,BB
+43,43,Customer 043,Karyawan Swasta,27400000.0,3,A
+44,44,Customer 044,PNS,18500000.0,5,BB
+45,45,Customer 045,Wiraswasta,17800000.0,5,BB
+46,46,Customer 046,Profesional,6700000.0,2,AA
+47,47,Customer 047,BUMN,32400000.0,3,A
+48,48,Customer 048,Petani,27600000.0,2,AA
+49,49,Customer 049,Pedagang,7300000.0,2,AA
+50,50,Customer 050,Karyawan Swasta,17500000.0,1,AAA
+51,51,Customer 051,PNS,45900000.0,1,AAA
+52,52,Customer 052,Wiraswasta,15800000.0,4,BBB
+53,53,Customer 053,Profesional,11500000.0,1,AAA
+54,54,Customer 054,BUMN,27000000.0,3,A
+55,55,Customer 055,Petani,49400000.0,3,A
+56,56,Customer 056,Pedagang,15900000.0,1,AAA
+57,57,Customer 057,Karyawan Swasta,35200000.0,5,BB
+58,58,Customer 058,PNS,39300000.0,1,AAA
+59,59,Customer 059,Wiraswasta,15700000.0,1,AAA
+60,60,Customer 060,Profesional,37800000.0,1,AAA
+61,61,Customer 061,BUMN,21600000.0,5,BB
+62,62,Customer 062,Petani,33500000.0,3,A
+63,63,Customer 063,Pedagang,33500000.0,4,BBB
+64,64,Customer 064,Karyawan Swasta,29100000.0,5,BB
+65,65,Customer 065,PNS,9100000.0,2,AA
+66,66,Customer 066,Wiraswasta,42600000.0,5,BB
+67,67,Customer 067,Profesional,19400000.0,2,AA
+68,68,Customer 068,BUMN,13400000.0,5,BB
+69,69,Customer 069,Petani,6800000.0,5,BB
+70,70,Customer 070,Pedagang,31600000.0,4,BBB
+71,71,Customer 071,Karyawan Swasta,35500000.0,3,A
+72,72,Customer 072,PNS,5700000.0,3,A
+73,73,Customer 073,Wiraswasta,28000000.0,1,AAA
+74,74,Customer 074,Profesional,15200000.0,1,AAA
+75,75,Customer 075,BUMN,34000000.0,2,AA
+76,76,Customer 076,Petani,12800000.0,5,BB
+77,77,Customer 077,Pedagang,36100000.0,4,BBB
+78,78,Customer 078,Karyawan Swasta,22400000.0,1,AAA
+79,79,Customer 079,PNS,47200000.0,4,BBB
+80,80,Customer 080,Wiraswasta,11200000.0,4,BBB
+81,81,Customer 081,Profesional,20300000.0,1,AAA
+82,82,Customer 082,BUMN,10100000.0,5,BB
+83,83,Customer 083,Petani,46600000.0,3,A
+84,84,Customer 084,Pedagang,44500000.0,3,A
+85,85,Customer 085,Karyawan Swasta,16600000.0,2,AA
+86,86,Customer 086,PNS,34700000.0,2,AA
+87,87,Customer 087,Wiraswasta,41800000.0,1,AAA
+88,88,Customer 088,Profesional,30000000.0,2,AA
+89,89,Customer 089,BUMN,28800000.0,3,A
+90,90,Customer 090,Petani,15900000.0,5,BB
+91,91,Customer 091,Pedagang,9200000.0,2,AA
+92,92,Customer 092,Karyawan Swasta,45400000.0,1,AAA
+93,93,Customer 093,PNS,45500000.0,2,AA
+94,94,Customer 094,Wiraswasta,33500000.0,2,AA
+95,95,Customer 095,Profesional,20300000.0,3,A
+96,96,Customer 096,BUMN,20700000.0,4,BBB
+97,97,Customer 097,Petani,37700000.0,5,BB
+98,98,Customer 098,Pedagang,45400000.0,3,A
+99,99,Customer 099,Karyawan Swasta,44900000.0,4,BBB
+100,100,Customer 100,PNS,40100000.0,4,BBB

@@ -1,0 +1,21 @@
+sk_branch,branch_id,branch_code,branch_name,city,region
+1,1,B01,Cabang Surabaya 1,Surabaya,Jawa Timur
+2,2,B02,Cabang Bandung 1,Bandung,Jawa Barat
+3,3,B03,Cabang Jakarta 1,Jakarta,DKI Jakarta
+4,4,B04,Cabang Denpasar 1,Denpasar,Bali
+5,5,B05,Cabang Medan 1,Medan,Sumatera Utara
+6,6,B06,Cabang Makassar 1,Makassar,Sulawesi Selatan
+7,7,B07,Cabang Surabaya 2,Surabaya,Jawa Timur
+8,8,B08,Cabang Bandung 2,Bandung,Jawa Barat
+9,9,B09,Cabang Jakarta 2,Jakarta,DKI Jakarta
+10,10,B10,Cabang Denpasar 2,Denpasar,Bali
+11,11,B11,Cabang Medan 2,Medan,Sumatera Utara
+12,12,B12,Cabang Makassar 2,Makassar,Sulawesi Selatan
+13,13,B13,Cabang Surabaya 3,Surabaya,Jawa Timur
+14,14,B14,Cabang Bandung 3,Bandung,Jawa Barat
+15,15,B15,Cabang Jakarta 3,Jakarta,DKI Jakarta
+16,16,B16,Cabang Denpasar 3,Denpasar,Bali
+17,17,B17,Cabang Medan 3,Medan,Sumatera Utara
+18,18,B18,Cabang Makassar 3,Makassar,Sulawesi Selatan
+19,19,B19,Cabang Surabaya 4,Surabaya,Jawa Timur
+20,20,B20,Cabang Bandung 4,Bandung,Jawa Barat
