@@ -2,9 +2,8 @@
 <h3 align="center">UMAP + HDBSCAN pada Data Warehouse Perkreditan Bank</h3>
 
 <p align="center">
-  <em>Pipeline analitik <strong>end-to-end</strong>: 
-    
-    Operational Data Store → ETL → Star Schema Data Warehouse → Data Mining tak terawasi → Dashboard keputusan interaktif</em>
+  Pipeline analitik <strong>end-to-end</strong>:
+    <em>Operational Data Store → ETL → Star Schema Data Warehouse → Data Mining tak terawasi → Dashboard keputusan interaktif</em>
 </p>
 
 <p align="center">
