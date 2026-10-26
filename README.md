@@ -1,6 +1,5 @@
 <h1 align="center">Segmentasi Profil Risiko Berlapis &amp; Deteksi Anomali Kredit</h1>
 <h3 align="center">Menggunakan Algoritma UMAP & HDBSCAN pada Data Warehouse Perkreditan Bank</h3>
-=======
 <h3 align="center">UMAP + HDBSCAN pada Data Warehouse Perkreditan Bank</h3>
 
 <p align="center">
