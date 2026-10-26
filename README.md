@@ -3,11 +3,6 @@
 <h3 align="center">UMAP + HDBSCAN pada Data Warehouse Perkreditan Bank</h3>
 
 <p align="center">
-  <em>Pipeline analitik <strong>end-to-end</strong>:<br>
-    Operational Data Store → ETL → Star Schema Data Warehouse → Data Mining tak terawasi → Dashboard keputusan interaktif</em>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/PostgreSQL-15+-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Pentaho_PDI-9.x-CC0000?style=flat-square&logo=pentaho&logoColor=white" alt="Pentaho">
@@ -68,7 +63,7 @@ mendukung pengambilan keputusan stakeholder.
 | Tingkat gagal bayar (*default rate*) | **25,0 %** |
 | ROI rata-rata | **43,0 %** |
 | Total laba bersih | **Rp 83,78 miliar** |
-| Rata-rata credit score portofolio | 575 |
+| Rata-rata credit score | 575 |
 
 ---
 
