@@ -1,5 +1,4 @@
 <h1 align="center">Segmentasi Profil Risiko Berlapis &amp; Deteksi Anomali Kredit</h1>
-<<<<<<< HEAD
 <h3 align="center">Menggunakan Algoritma UMAP & HDBSCAN pada Data Warehouse Perkreditan Bank</h3>
 =======
 <h3 align="center">UMAP + HDBSCAN pada Data Warehouse Perkreditan Bank</h3>
@@ -8,7 +7,6 @@
   <em>Pipeline analitik <strong>end-to-end</strong>:<br>
     Operational Data Store → ETL → Star Schema Data Warehouse → Data Mining tak terawasi → Dashboard keputusan interaktif</em>
 </p>
->>>>>>> 02a6315420976ae385d75033aa8df355afff0bb6
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
